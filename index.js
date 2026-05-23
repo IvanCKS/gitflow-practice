@@ -1,1 +1,5 @@
-'console.log(\'gitflow project 3\');'; 
+function getGreeting(name) {
+  return `Hello, ${name}!`;
+}
+
+console.log(getGreeting('Ivan'));
