@@ -1,0 +1,27 @@
+{
+  "name": "gitflow-practice",
+  "version": "1.0.0",
+  "description": "\"# gitflow practice project 3\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanCKS/gitflow-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IvanCKS/gitflow-practice/issues"
+  },
+  "homepage": "https://github.com/IvanCKS/gitflow-practice#readme",
+  "devDependencies": {
+    "eslint": "^10.4.0",
+    "husky": "^9.1.7"
+  }
+}
